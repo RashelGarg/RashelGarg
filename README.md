@@ -1,10 +1,10 @@
 ![image](https://github.com/user-attachments/assets/10fc3fd3-a655-4629-907d-0e8a2bf98c46)
-<h1 align="center">Hi 👋, I'm Atharva Yogesh Honrao</h1>
+<h1 align="center">Hi 👋, I'm Rashel Garg</h1>
 <h3 align="center">A passionate Data Science enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvaa45&label=Profile%20views&color=0e75b6&style=flat" alt="atharvaa45" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RashelGarg&label=Profile%20views&color=0e75b6&style=flat" alt="rashel1414" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvaa45" alt="atharvaa45" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RashelGarg" alt="rashel1414" /></a> </p>
 
 - 🔭 I’m currently working on a **Financial Compliance Intelligence System using Evaluated RAG**
 
@@ -12,16 +12,16 @@
 
 
 - 💬 Ask me about 
-**Programming Languages: Python, SQL, TypeScript, R,  Java**
+**Programming Languages: Python, SQL, R**
  
 **Machine Learning & Data Science: Machine Learning, Deep Learning, Computer Vision, Predictive Modeling, Time Series Analysis, Model Evaluation, 
 Statistics, Fairness & Bias Analysis, A/B Testing, Data Pipelines** 
 
 **Generative AI & LLM Systems: RAG, LangChain, Hugging Face, OpenAI API, Vector Databases (FAISS / ChromaDB), Prompt Engineering** 
 
-**ML/DL Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, Spark** 
+**ML/DL Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV** 
 
-**Data, Cloud & Web: Tableau, Streamlit, Flask, Django, Plotly, Seaborn, MongoDB, Docker, AWS (EC2, S3), Git, GitHub, React.js, Next.js, Node.js, GCP**
+**Data, Cloud & Web: Tableau, Streamlit, Flask, Django, Plotly, Seaborn, MongoDB, Docker, AWS (EC2, S3), Git, GitHub**
 
 - 📫 How to reach me **ayharch1411@gmail.com**
 
@@ -29,7 +29,7 @@ Statistics, Fairness & Bias Analysis, A/B Testing, Data Pipelines**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/atharva-honrao-07669b23b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-honrao-07669b23b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rashelgarg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashelgarg/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,8 +54,8 @@ Statistics, Fairness & Bias Analysis, A/B Testing, Data Pipelines**
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvaa45&show_icons=true&locale=en&layout=compact" alt="atharvaa45" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RashelGarg&show_icons=true&locale=en&layout=compact" alt="rashel1414" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvaa45&show_icons=true&locale=en" alt="atharvaa45" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RashelGarg&show_icons=true&locale=en" alt="rashel1414" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvaa45&" alt="atharvaa45" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RashelGarg&" alt="rashel1414" /></p>
