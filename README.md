@@ -23,9 +23,9 @@ Statistics, Fairness & Bias Analysis, A/B Testing, Data Pipelines**
 
 **Data, Cloud & Web: Tableau, Streamlit, Flask, Django, Plotly, Seaborn, MongoDB, Docker, AWS (EC2, S3), Git, GitHub**
 
-- 📫 How to reach me **ayharch1411@gmail.com**
+- 📫 How to reach me **rasheljob2025@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CO0-J23PB_MlRyeNd_fHP3mcGOnLPq6U/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://1drv.ms/b/c/92df698a26486d5b/IQAoE4TkCSB9RrAUc3fw2e6zAXRYeSI5bSTz5cIk8Usr6pQ?e=u0qC1r)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
