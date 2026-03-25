@@ -10,6 +10,7 @@
 
 [![Email](https://img.shields.io/badge/Email-rasheljob2025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasheljob2025@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-RashelGarg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RashelGarg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rashelgarg.tech-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rashelgarg.tech)
 [![Location](https://img.shields.io/badge/Location-Tokyo%2C%20Japan%20%F0%9F%87%AF%F0%9F%87%B5-FF0000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -200,19 +201,26 @@ Created a dual-authentication system combining **face recognition** and **voice 
 
 ---
 
-### 🚗 **Car Price Prediction Model**
+### 📊 **Exam Answer Evaluation using LLM**
 
 <details>
 <summary><b>Click to expand</b></summary>
 
-**📊 Data Science Internship @ Oasis Infobyte**
+**🤖 Automated Multi-Judge Grading Pipeline**
 
-Built regression models to predict used car prices based on features like mileage, year, brand, and condition.
+Built a comprehensive exam evaluation system using Large Language Models to automate and standardize the grading process.
 
-**Results:**
-- ✅ **95% prediction accuracy**
-- 📉 **20% RMSE reduction** compared to baseline
-- 🎯 Feature engineering and hyperparameter optimization
+**Tech Stack:**
+- Python, Google Gemini SDK (Generative AI)
+- Pandas, NumPy (Data processing)
+- Matplotlib, Seaborn (Visual Analytics)
+- Scikit-learn (Metric evaluation)
+
+**Key Features & Results:**
+- ✅ **Automated multi-judge pipeline** for unbiased, consistent exam grading
+- 🛡️ **Advanced rate-limiting** to manage free-tier API quotas effectively
+- 📊 **Dynamic dashboards** generating visual insights into student performance
+- ⚡ **Seamless migration** to the latest Google Gemini API for enhanced accuracy
 
 </details>
 
@@ -227,9 +235,9 @@ gantt
     title My Professional Journey
     dateFormat  YYYY-MM
     section Industry
-    Technical Intern - 4i Apps Solutions           :2023-06, 2023-08
-    Data Science Intern - Oasis Infobyte          :2023-09, 2023-11
-    Web Development Intern - Decimal Technologies :2024-01, 2024-03
+    Technical Intern - 4i Apps Solutions           :2025-02, 2025-04
+    Data Science Intern - Oasis Infobyte          :2024-08, 2024-09
+    Web Development Intern - Decimal Technologies :2024-06, 2024-09
     section Education
     Japanese Language Study - Tokyo               :2025-01, 2026-06
 ```
@@ -329,7 +337,7 @@ I'm always excited to collaborate on interesting projects, especially those invo
 
 [![Email](https://img.shields.io/badge/Email-rasheljob2025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasheljob2025@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-RashelGarg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RashelGarg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashelgarg/)
 
 ---
 
