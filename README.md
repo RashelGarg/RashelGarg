@@ -1,61 +1,344 @@
-![image](https://github.com/user-attachments/assets/10fc3fd3-a655-4629-907d-0e8a2bf98c46)
-<h1 align="center">Hi 👋, I'm Rashel Garg</h1>
-<h3 align="center">A passionate Data Science enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RashelGarg&label=Profile%20views&color=0e75b6&style=flat" alt="rashel1414" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RashelGarg" alt="rashel1414" /></a> </p>
-
-- 🔭 I’m currently working on a **Financial Compliance Intelligence System using Evaluated RAG**
-
-- 🌱 Exploring **GenAI, LLMs and RAG**
-
-
-- 💬 Ask me about 
-**Programming Languages: Python, SQL, R**
- 
-**Machine Learning & Data Science: Machine Learning, Deep Learning, Computer Vision, Predictive Modeling, Time Series Analysis, Model Evaluation, 
-Statistics, Fairness & Bias Analysis, A/B Testing, Data Pipelines** 
-
-**Generative AI & LLM Systems: RAG, LangChain, Hugging Face, OpenAI API, Vector Databases (FAISS / ChromaDB), Prompt Engineering** 
-
-**ML/DL Frameworks: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, OpenCV** 
-
-**Data, Cloud & Web: Tableau, Streamlit, Flask, Django, Plotly, Seaborn, MongoDB, Docker, AWS (EC2, S3), Git, GitHub**
-
-- 📫 How to reach me **rasheljob2025@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://1drv.ms/b/c/92df698a26486d5b/IQAoE4TkCSB9RrAUc3fw2e6zAXRYeSI5bSTz5cIk8Usr6pQ?e=u0qC1r)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rashelgarg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rashelgarg/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
-	<code><img width="50" src="https://github.com/user-attachments/assets/9f931c45-0585-4db0-86a7-25ce3f5bef25" alt="PyCharm" title="PyCharm"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" alt="NumPy" title="NumPy"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" alt="Pandas" title="Pandas"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle" title="Oracle"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB"/></code>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGx6ZDN6cjZxN3N6Ym5hZnRoN3RvN3N6ZDN6ZDN6ZDN6ZDN6ZDN6ZDN6ZA/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+# 👋 Hey there! I'm **Rashel Garg**
+
+### 🤖 AI/ML Engineer • 🌐 Full-Stack Developer • 📊 Data Science Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A7%A0;Living+and+coding+in+Tokyo+%F0%9F%97%BC;Exploring+ML%2C+Web+Dev%2C+%26+Japanese+%F0%9F%8E%8C;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+
+[![Email](https://img.shields.io/badge/Email-rasheljob2025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasheljob2025@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RashelGarg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RashelGarg)
+[![Location](https://img.shields.io/badge/Location-Tokyo%2C%20Japan%20%F0%9F%87%AF%F0%9F%87%B5-FF0000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RashelGarg&show_icons=true&locale=en&layout=compact" alt="rashel1414" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RashelGarg&show_icons=true&locale=en" alt="rashel1414" /></p>
+## 🌸 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RashelGarg&" alt="rashel1414" /></p>
+```python
+class RashelGarg:
+    def __init__(self):
+        self.name = "Rashel Garg"
+        self.location = "Tokyo, Japan 🗼"
+        self.citizenship = "India 🇮🇳"
+        self.education = "B.Tech in Computer Science with Data Science @ VIT Vellore"
+        self.current_role = ["AI/ML Engineer", "Full-Stack Developer", "Data Scientist"]
+        self.languages = ["English", "Hindi", "Japanese (JLPT N4)"]
+        
+    def current_mission(self):
+        return "Bridging technology and culture while building intelligent systems in Tokyo"
+    
+    def fun_fact(self):
+        return "Learning Japanese through code and building apps to help others do the same! 🎌"
+```
+
+I'm a **Computer Science graduate from VIT Vellore** currently based in **Tokyo, Japan**, where I'm immersing myself in Japanese language and culture while honing my technical skills. I'm passionate about **machine learning**, **web development**, and creating tools that solve real-world problems.
+
+---
+
+## 🗼 What I'm Doing in Tokyo
+
+<div align="center">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
+</div>
+
+🎓 **Studying Japanese** at Nichibei Kaiwa Gakuin (currently at **JLPT N4 level**)  
+💻 **Building projects** that blend technology with Japanese culture  
+🌏 **Exploring** the intersection of AI/ML in one of the world's most tech-forward cities  
+🚀 **Preparing** for my next role in AI/ML Engineering or Data Science  
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Core Computer Science
+**Data Structures & Algorithms** • **Database Management Systems** • **Operating Systems** • **System Design** • **Network Security**
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+</div>
+
+### 📱 **KanjiDictApp - Japanese Kanji Learning Companion**
+
+<details open>
+<summary><b>Click to expand</b></summary>
+
+```
+🎌 Bridging Technology & Japanese Language Learning
+```
+
+A **React Native mobile app** designed to help Japanese learners master kanji through interactive, visual learning. Built during my time in Tokyo, this project reflects my passion for both technology and Japanese culture.
+
+**✨ Key Features:**
+- 📸 **Camera-based Kanji Scanner** - Snap a photo, instantly recognize kanji
+- 🔤 **Furigana Display System** - Automatic reading aids for complex characters
+- ✍️ **Stroke Order Animations** - Learn proper kanji writing techniques
+- 📚 **Comprehensive Vocabulary Tools** - Words, compounds, and example sentences
+- 💾 **Offline CSV Dataset** - Works without internet connection
+
+**🛠️ Tech Stack:**
+- React Native (cross-platform mobile development)
+- Computer Vision for character recognition
+- Custom dataset processing and management
+- Scaffolded with Antigravity framework
+
+**🎯 Impact:**
+- Inspired by Shirabe Jisho's intuitive design
+- Solves real problems I faced while learning Japanese in Tokyo
+- Combines ML, mobile dev, and UX design
+
+**📍 Status:** Active development | Personal passion project
+
+</details>
+
+---
+
+### 📈 **Index Fund Price Trend Prediction**
+
+<details>
+<summary><b>Click to expand</b></summary>
+
+**🔮 Predicting Market Trends with Deep Learning**
+
+Built a sophisticated **LSTM-based model** to forecast index fund price movements with real-time visualization.
+
+**Tech Stack:**
+- Python, LSTM Neural Networks
+- TwelveData API (real-time financial data)
+- Plotly (interactive candlestick charts)
+
+**Results:**
+- ✅ **15% accuracy improvement** over baseline models
+- 📊 Real-time candlestick chart generation
+- 🎯 Temporal pattern recognition in financial data
+
+</details>
+
+---
+
+### 🚦 **Real-Time Traffic Sign Detection**
+
+<details>
+<summary><b>Click to expand</b></summary>
+
+**🚗 Computer Vision for Autonomous Driving**
+
+Developed a **YOLOv8-powered system** for real-time traffic sign detection and classification.
+
+**Tech Stack:**
+- Python, YOLOv8, OpenCV, PyTorch
+- Custom training pipeline
+- Real-time video processing
+
+**Performance:**
+- ✅ **95%+ accuracy** on test dataset
+- ⚡ **30+ FPS inference** on standard hardware
+- 🎯 Robust detection across lighting conditions
+
+</details>
+
+---
+
+### 🔐 **Smart Door Unlocking System**
+
+<details>
+<summary><b>Click to expand</b></summary>
+
+**🤖 Multimodal Biometric Authentication**
+
+Created a dual-authentication system combining **face recognition** and **voice verification** for enhanced security.
+
+**Tech Stack:**
+- Python, OpenCV, dlib
+- Resemblyzer (voice embeddings)
+- NLP for voice command processing
+
+**Features:**
+- 👤 Face detection with liveness verification
+- 🎤 Voice authentication using speaker embeddings
+- 🔒 Improved security through multimodal fusion
+
+</details>
+
+---
+
+### 🚗 **Car Price Prediction Model**
+
+<details>
+<summary><b>Click to expand</b></summary>
+
+**📊 Data Science Internship @ Oasis Infobyte**
+
+Built regression models to predict used car prices based on features like mileage, year, brand, and condition.
+
+**Results:**
+- ✅ **95% prediction accuracy**
+- 📉 **20% RMSE reduction** compared to baseline
+- 🎯 Feature engineering and hyperparameter optimization
+
+</details>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+```mermaid
+gantt
+    title My Professional Journey
+    dateFormat  YYYY-MM
+    section Industry
+    Technical Intern - 4i Apps Solutions           :2023-06, 2023-08
+    Data Science Intern - Oasis Infobyte          :2023-09, 2023-11
+    Web Development Intern - Decimal Technologies :2024-01, 2024-03
+    section Education
+    Japanese Language Study - Tokyo               :2025-01, 2026-06
+```
+
+</div>
+
+### 👨‍💻 **Technical Intern** | 4i Apps Solutions
+- Built **responsive payslip web page** for employee portal
+- Enhanced UI/UX for internal HR systems
+- Collaborated with cross-functional teams
+
+### 📊 **Data Science Intern** | Oasis Infobyte
+- Developed **5 production-ready ML models**
+- Achieved **95% accuracy** on car price prediction
+- Reduced RMSE by **20%** through feature engineering
+
+### 🌐 **Web Development Intern** | Decimal Technologies
+- Mastered **HTML, CSS, JavaScript** fundamentals
+- Explored modern frameworks and responsive design
+- Built interactive web components
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RashelGarg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashelGarg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RashelGarg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RashelGarg&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+</div>
+
+```yaml
+learning:
+  - Advanced Deep Learning architectures
+  - React Native mobile development
+  - Japanese language (targeting JLPT N3)
+  - System Design for scalable applications
+
+building:
+  - KanjiDictApp (production release)
+  - Personal portfolio website
+  - ML project portfolio
+
+exploring:
+  - GenAI and LLM applications
+  - Computer Vision in edge devices
+  - Cross-cultural tech solutions
+```
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| ☁️ **AWS Cloud Practitioner** | Amazon Web Services | 2024 |
+| 🤖 **Introduction to Generative AI** | Google Cloud | 2024 |
+| 📊 **Statistical Inference** | Johns Hopkins University | 2023 |
+
+</div>
+
+---
+
+## 🎨 Tech I Love
+
+<div align="center">
+
+**🧠 Machine Learning** | **📱 Mobile Development** | **🌐 Web Technologies**  
+**☁️ Cloud Computing** | **🎌 Japanese Language Tech** | **📊 Data Visualization**
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+
+</div>
+
+---
+
+## 📬 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on interesting projects, especially those involving **AI/ML**, **data science**, or **Japanese language technology**!
+
+[![Email](https://img.shields.io/badge/Email-rasheljob2025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasheljob2025@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RashelGarg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RashelGarg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+---
+
+### 💡 *"Code is poetry written for machines, but read by humans"*
+
+<img src="https://komarev.com/ghpvc/?username=RashelGarg&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> <em><b>Thanks for visiting!</b> Feel free to explore my repositories and reach out if you'd like to collaborate!</em>
+
+</div>
