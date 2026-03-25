@@ -27,7 +27,7 @@ class RashelGarg:
         self.citizenship = "India 🇮🇳"
         self.education = "B.Tech in Computer Science with Data Science @ VIT Vellore"
         self.current_role = ["AI/ML Engineer", "Full-Stack Developer", "Data Scientist"]
-        self.languages = ["English", "Hindi", "Japanese (JLPT N4)"]
+        self.languages = ["English", "Hindi", "Japanese (JLPT N3)"]
         
     def current_mission(self):
         return "Bridging technology and culture while building intelligent systems in Tokyo"
@@ -46,7 +46,7 @@ I'm a **Computer Science graduate from VIT Vellore** currently based in **Tokyo,
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
 </div>
 
-🎓 **Studying Japanese** at Nichibei Kaiwa Gakuin (currently at **JLPT N4 level**)  
+🎓 **Studying Japanese** at Nichibei Kaiwa Gakuin (currently at **JLPT N3 level**)  
 💻 **Building projects** that blend technology with Japanese culture  
 🌏 **Exploring** the intersection of AI/ML in one of the world's most tech-forward cities  
 🚀 **Preparing** for my next role in AI/ML Engineering or Data Science  
@@ -286,7 +286,7 @@ gantt
 learning:
   - Advanced Deep Learning architectures
   - React Native mobile development
-  - Japanese language (targeting JLPT N3)
+  - Japanese language (targeting JLPT N2)
   - System Design for scalable applications
 
 building:
