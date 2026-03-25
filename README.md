@@ -6,12 +6,13 @@
 
 ### 🤖 AI/ML Engineer • 🌐 Full-Stack Developer • 📊 Data Science Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A7%A0;Living+and+coding+in+Tokyo+%F0%9F%97%BC;Exploring+ML%2C+Web+Dev%2C+%26+Japanese+%F0%9F%8E%8C;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Syne&size=24&duration=3000&pause=1000&color=7dcfff&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+%F0%9F%A7%A0;Tokyo+Night+Vibes+%F0%9F%8C%83;Exploring+ML%2C+Web+Dev%2C+%26+Japan+%F0%9F%8E%8C;Always+learning+and+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![Email](https://img.shields.io/badge/Email-rasheljob2025%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rasheljob2025@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-RashelGarg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RashelGarg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rashelgarg.tech-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rashelgarg.tech)
-[![Location](https://img.shields.io/badge/Location-Tokyo%2C%20Japan%20%F0%9F%87%AF%F0%9F%87%B5-FF0000?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-rasheljob2025%40gmail.com-1a1b26?style=for-the-badge&logo=gmail&logoColor=bb9af7)](mailto:rasheljob2025@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RashelGarg-1a1b26?style=for-the-badge&logo=github&logoColor=7dcfff)](https://github.com/RashelGarg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rashelgarg.tech-1a1b26?style=for-the-badge&logo=vercel&logoColor=9ece6a)](https://rashelgarg.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/rashelgarg/)
+[![Location](https://img.shields.io/badge/Location-Tokyo%2C%20Japan-1a1b26?style=for-the-badge&logo=googlemaps&logoColor=f7768e)](#)
 
 </div>
 
