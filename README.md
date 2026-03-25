@@ -235,11 +235,11 @@ gantt
     title My Professional Journey
     dateFormat  YYYY-MM
     section Industry
-    Technical Intern - 4i Apps Solutions           :2025-02, 2025-04
-    Data Science Intern - Oasis Infobyte          :2024-08, 2024-09
-    Web Development Intern - Decimal Technologies :2024-06, 2024-09
+    Technical Intern - 4i Apps Solutions           :2025-02, 2025-05
+    Data Science Intern - Oasis Infobyte          :2024-08, 2024-10
+    Web Development Intern - Decimal Technologies :2024-06, 2024-08
     section Education
-    Japanese Language Study - Tokyo               :2025-01, 2026-06
+    Japanese Language Study - Tokyo               :2025-05, 2026-06
 ```
 
 </div>
