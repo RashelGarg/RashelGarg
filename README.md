@@ -57,32 +57,31 @@ I'm a **Computer Science graduate from VIT Vellore** currently based in **Tokyo,
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-1a1b26?style=for-the-badge&logo=python&logoColor=7dcfff)
+![C++](https://img.shields.io/badge/C++-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=7aa2f7)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b26?style=for-the-badge&logo=javascript&logoColor=e0af68)
+![HTML5](https://img.shields.io/badge/HTML5-1a1b26?style=for-the-badge&logo=html5&logoColor=f7768e)
+![CSS3](https://img.shields.io/badge/CSS3-1a1b26?style=for-the-badge&logo=css3&logoColor=7aa2f7)
+![SQL](https://img.shields.io/badge/SQL-1a1b26?style=for-the-badge&logo=mysql&logoColor=7dcfff)
+![R](https://img.shields.io/badge/R-1a1b26?style=for-the-badge&logo=r&logoColor=7aa2f7)
+![MATLAB](https://img.shields.io/badge/MATLAB-1a1b26?style=for-the-badge&logo=mathworks&logoColor=f7768e)
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### 🧠 AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1b26?style=for-the-badge&logo=tensorflow&logoColor=e0af68)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1b26?style=for-the-badge&logo=pytorch&logoColor=f7768e)
+![Pandas](https://img.shields.io/badge/Pandas-1a1b26?style=for-the-badge&logo=pandas&logoColor=bb9af7)
+![NumPy](https://img.shields.io/badge/NumPy-1a1b26?style=for-the-badge&logo=numpy&logoColor=7aa2f7)
+![OpenCV](https://img.shields.io/badge/OpenCV-1a1b26?style=for-the-badge&logo=opencv&logoColor=bb9af7)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a1b26?style=for-the-badge&logo=streamlit&logoColor=f7768e)
 
-### Tools & Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+### 🛠️ Tools & Environments
+![AWS](https://img.shields.io/badge/AWS-1a1b26?style=for-the-badge&logo=amazonaws&logoColor=e0af68)
+![Git](https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f7768e)
+![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=7dcfff)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1b26?style=for-the-badge&logo=visualstudiocode&logoColor=7aa2f7)
+![Jupyter](https://img.shields.io/badge/Jupyter-1a1b26?style=for-the-badge&logo=jupyter&logoColor=e0af68)
+![Linux](https://img.shields.io/badge/Linux-1a1b26?style=for-the-badge&logo=linux&logoColor=e0af68)
 
 ### Core Computer Science
 **Data Structures & Algorithms** • **Database Management Systems** • **Operating Systems** • **System Design** • **Network Security**
@@ -265,10 +264,10 @@ gantt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RashelGarg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashelGarg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RashelGarg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7dcfff&text_color=94a3b8&icon_color=bb9af7" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashelGarg&layout=compact&theme=tokyonight&hide_border=true&title_color=7dcfff&text_color=94a3b8" alt="Top Languages" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RashelGarg&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RashelGarg&theme=tokyonight&hide_border=true&stroke=bb9af7&background=1a1b26&ring=7dcfff&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" width="500"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=RashelGarg&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
