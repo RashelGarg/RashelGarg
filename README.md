@@ -270,7 +270,7 @@ gantt
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashelGarg&theme=tokyonight&hide_border=true&stroke=bb9af7&background=1a1b26&ring=7dcfff&fire=f7768e&currStreakLabel=7aa2f7" alt="GitHub Streak" width="500"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=RashelGarg&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+
 
 </div>
 
